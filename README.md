@@ -10,6 +10,11 @@
   <img align="left" alt="Paavamaani's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+[<img align="left" alt="Paavamaani's Email" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667)" />](mailto:paavamaanimanchala@gmail.com)
+
+
+<h3 align="left"> Portfolio </h3>
+
 <a href="https://leetcode.com/paavamaani" target="_blank">
   <img align="left" alt="Paavamaani's LeetCode" width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
 </a>
@@ -27,9 +32,6 @@
     <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
   </div>
 </div>
-
-- 📫 How to reach me **paavamaanimanchala@gmail.com**
-
 
 <p align="left">
 <a href="https://linkedin.com/in/paavamaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
