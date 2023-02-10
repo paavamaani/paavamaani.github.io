@@ -4,6 +4,16 @@
 
 <p> I am a driven software engineer with a passion for creating large-scale web applications. As a student pursuing a Master's degree in Software Engineering, I bring both academic knowledge and 3 years of professional experience to the table. My experience in building complex and high-performance web applications has honed my skills in architecture, scalability, and problem-solving, and I am eager to continue my growth and make a meaningful impact in the field </p>
 
+<h3 align="left"> Connect with me </h3>
+
+<a href="https://www.linkedin.com/in/paavamaani" target="_blank">
+  <img align="left" alt="Paavamaani's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://leetcode.com/paavamaani" target="_blank">
+  <img align="left" alt="Paavamaani's LeetCode" width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
+</a>
+
 <div>
   <div style="float: left;width: 50%;">
     <a href="https://www.linkedin.com/in/paavamaani" target="_blank">
@@ -18,11 +28,9 @@
   </div>
 </div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **paavamaanimanchala@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/paavamaani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
