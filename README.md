@@ -34,6 +34,7 @@
     <div>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=Paavamaani%20GitHub%20Statistics&hide_rank=true" alt="paavamaani" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=paavamaani&theme=dark&mode=weekly" alt="paavamaani" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paavamaanni&card_width=800&custom_title=Tech%20Stack%20Used&langs_count=10" alt="paavamaani" />
     </div>
 </div>
 
