@@ -32,9 +32,9 @@
 <div>
   <h2 align="left"> Statistics </h2>
     <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=Paavamaani%20GitHub%20Statistics&hide_rank=true" alt="paavamaani" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&card_width=341&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=Paavamaani%20GitHub%20Statistics&hide_rank=true" alt="paavamaani" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=paavamaani&theme=dark&mode=weekly" alt="paavamaani" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paavamaani&card_width=800&custom_title=Tech%20Stack%20Used&langs_count=10" alt="paavamaani" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paavamaani&card_width=846&custom_title=Tech%20Stack%20Used&langs_count=8" alt="paavamaani" />
     </div>
 </div>
 
