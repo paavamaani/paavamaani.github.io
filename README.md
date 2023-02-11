@@ -27,8 +27,6 @@
   </a>
 </div>
 
-<br>
-
 <div>
   <h2 align="left"> Statistics </h2>
     <div>
