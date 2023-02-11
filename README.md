@@ -182,3 +182,14 @@
       </a>
   </p>
 </div>
+
+<div>
+  <h3 align="left"> Statistics </h3>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&show_icons=true&locale=en" alt="paavamaani" />
+
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paavamaani" alt="paavamaani" />
+
+    <img align="right" alt="GIF" src="https://github.com/paavamaani/Paavamaani/blob/main/code.gif" width="440" height="320" />
+</div>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paavamaani&show_icons=true&locale=en&layout=compact" alt="paavamaani" />
