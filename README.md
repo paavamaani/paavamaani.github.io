@@ -30,15 +30,6 @@
 <br>
 
 <div>
-  <h2 align="left"> Statistics </h2>
-    <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&card_width=345&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=Paavamaani%20GitHub%20Statistics&hide_rank=true" alt="paavamaani" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=paavamaani&theme=dark&mode=weekly" alt="paavamaani" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paavamaani&custom_title=Tech%20Stack%20Used&bg_color=151515&title_color=ffffff&text_color=ffffff&card_width=850&langs_count=8" alt="paavamaani" />
-    </div>
-</div>
-
-<div>
   <h2 align="left"> Skills </h2>
   
   <h3 align="left"> Programming Languages </h3>
@@ -190,4 +181,13 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
       </a>
   </p>
+</div>
+
+<div>
+  <h2 align="left"> Statistics </h2>
+    <div>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&card_width=345&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=Paavamaani%20GitHub%20Statistics&hide_rank=true" alt="paavamaani" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=paavamaani&theme=dark&mode=weekly" alt="paavamaani" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paavamaani&custom_title=Tech%20Stack%20Used&bg_color=151515&title_color=ffffff&text_color=ffffff&card_width=850&langs_count=8" alt="paavamaani" />
+    </div>
 </div>
