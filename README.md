@@ -40,7 +40,7 @@
     </div>
 </div>
 
-<br><br>
+<br><br><br>
 
 <div>
   <h2 align="left"> Skills </h2>
