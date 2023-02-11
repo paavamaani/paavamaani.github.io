@@ -32,7 +32,7 @@
 <div>
   <h2 align="left"> Statistics </h2>
     <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&show_icons=true&locale=en" alt="paavamaani" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&show_icons=true&theme=Gradient&locale=en" alt="paavamaani" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paavamaani" alt="paavamaani" />
     </div>
     <div>
