@@ -5,7 +5,7 @@
 <p> I am a driven software engineer with a passion for creating large-scale web applications. As a student pursuing a Master's degree in Software Engineering, I bring both academic knowledge and 3 years of professional experience to the table. My experience in building complex and high-performance web applications has honed my skills in architecture, scalability, and problem-solving, and I am eager to continue my growth and make a meaningful impact in the field </p>
 
 <div>
-  <div style="width: 60%;float: left;">
+  <div style="width: 50%;float: left;">
     <p>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&show_icons=true&locale=en" alt="paavamaani" />
     </p>
@@ -13,8 +13,8 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paavamaani" alt="paavamaani" />
     </p>
   </div>
-  <div style="width: 40%;float: left;">
-    <img align="right" alt="GIF" src="https://github.com/paavamaani/Paavamaani/blob/main/code.gif" />
+  <div style="width: 50%;float: left;">
+    <img align="right" alt="GIF" src="https://github.com/paavamaani/Paavamaani/blob/main/code.gif" width="500" height="320" />
   </div>
 <div>
 
