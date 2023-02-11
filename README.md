@@ -5,6 +5,35 @@
 <p> I am a driven software engineer with a passion for creating large-scale web applications. As a student pursuing a Master's degree in Software Engineering, I bring both academic knowledge and 3 years of professional experience to the table. My experience in building complex and high-performance web applications has honed my skills in architecture, scalability, and problem-solving, and I am eager to continue my growth and make a meaningful impact in the field </p>
 
 <div>
+  <h2 align="left"> Digital Footprint </h2>
+  
+  <div>
+    <h3 align="left"> Connect with me </h3>
+
+    <a href="https://www.linkedin.com/in/paavamaani">
+      <img align="left" alt="Paavamaani's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+
+    [<img align="left" alt="Paavamaani's Email" width="22px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />](mailto:paavamaanimanchala@gmail.com)
+  </div>
+
+  <br>
+
+  <div>
+    <h3 align="left"> Portfolio <img src="https://komarev.com/ghpvc/?username=paavamaani&label=Visitors&color=0e75b6&style=flat" alt="paavamaani" /> </h3>
+
+    <a href="https://leetcode.com/paavamaani">
+      <img align="left" alt="Paavamaani's LeetCode" width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
+    </a>
+    <a href="https://github.com/paavamaani">
+      <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
+    </a>
+  </div>
+</div>
+
+<br>
+
+<div>
   <h2 align="left"> Skills </h2>
   
   <h3 align="left"> Programming Languages </h3>
@@ -156,29 +185,4 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
       </a>
   </p>
-</div>
-
-<br>
-
-<div>
-  <h3 align="left"> Connect with me </h3>
-
-  <a href="https://www.linkedin.com/in/paavamaani">
-    <img align="left" alt="Paavamaani's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-  </a>
-
-  [<img align="left" alt="Paavamaani's Email" width="22px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />](mailto:paavamaanimanchala@gmail.com)
-</div>
-
-<br>
-
-<div>
-  <h3 align="left"> Portfolio <img src="https://komarev.com/ghpvc/?username=paavamaani&label=Visitors&color=0e75b6&style=flat" alt="paavamaani" /> </h3>
-
-  <a href="https://leetcode.com/paavamaani">
-    <img align="left" alt="Paavamaani's LeetCode" width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
-  </a>
-  <a href="https://github.com/paavamaani">
-    <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
-  </a>
 </div>
