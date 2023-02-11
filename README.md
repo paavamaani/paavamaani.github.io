@@ -32,7 +32,7 @@
 <div>
   <h2 align="left"> Statistics </h2>
     <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=Paavamaani%20GitHub%20Statistics&hide=stars,contribs" alt="paavamaani" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=paavamaani&show_icons=true&title_color=fff&icon_color=79ff97&bg_color=151515&text_color=fff&locale=en&custom_title=Paavamaani%20GitHub%20Statistics&hide=stars,contribs&card_width=300" alt="paavamaani" />
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=paavamaani&theme=dark&mode=weekly" alt="paavamaani" />
     </div>
 </div>
