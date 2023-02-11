@@ -5,7 +5,7 @@
 <p> I am a driven software engineer with a passion for creating large-scale web applications. As a student pursuing a Master's degree in Software Engineering, I bring both academic knowledge and 3 years of professional experience to the table. My experience in building complex and high-performance web applications has honed my skills in architecture, scalability, and problem-solving, and I am eager to continue my growth and make a meaningful impact in the field </p>
 
 <div>
-  <h2 align="left"> Digital Footprint </h2>
+  <h2 align="left"> Digital Footprint <img src="https://komarev.com/ghpvc/?username=paavamaani&label=Visitors&color=0e75b6&style=flat" alt="paavamaani" /> </h2>
   
   <h3 align="left"> Connect with me </h3>
 
@@ -17,10 +17,13 @@
   
   <br>
   
-  <h3 align="left"> Portfolio <img src="https://komarev.com/ghpvc/?username=paavamaani&label=Visitors&color=0e75b6&style=flat" alt="paavamaani" /> </h3>
+  <h3 align="left"> Portfolio </h3>
 
   <a href="https://leetcode.com/paavamaani">
     <img align="left" alt="Paavamaani's LeetCode" width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
+  </a>
+  <a href="https://github.com/paavamaani">
+    <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
   </a>
   <a href="https://github.com/paavamaani">
     <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
