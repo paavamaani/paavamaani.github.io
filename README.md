@@ -195,6 +195,4 @@
     </div>
 </div>
 
-<div>
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
-</div>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
