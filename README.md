@@ -25,8 +25,8 @@
   <a href="https://github.com/paavamaani">
     <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
   </a>
-  <a href="https://github.com/paavamaani">
-    <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
+  <a href="https://drive.google.com/drive/folders/1YuEYLva8MhZNYY5zgz3Y1ds4YkI0DWWm?usp=sharing">
+    <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://camo.githubusercontent.com/78970772c54aad16d3d5ec6f8ba3ba5e2f5c238ca1940345b44a78b97e6235df/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c655f64726976652e737667" />
   </a>
 </div>
 
