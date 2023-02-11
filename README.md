@@ -36,7 +36,7 @@
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paavamaani" alt="paavamaani" />
     </div>
     <div>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paavamaani&show_icons=true&locale=en&layout=compact" alt="paavamaani" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paavamaani&show_icons=true&locale=en" alt="paavamaani" />
     </div>
 </div>
 
