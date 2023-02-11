@@ -14,7 +14,7 @@
     </p>
   </div>
   <div style="width: 50%;float: left;">
-    <img align="right" alt="GIF" src="https://github.com/paavamaani/Paavamaani/blob/main/code.gif" width="400" height="320" />
+    <img align="right" alt="GIF" src="https://github.com/paavamaani/Paavamaani/blob/main/code.gif" width="300" height="320" />
   </div>
 <div>
 
