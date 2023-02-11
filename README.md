@@ -7,26 +7,22 @@
 <div>
   <h2 align="left"> Digital Footprint </h2>
   
-  <div>
-    <h3 align="left"> Connect with me </h3>
+  <h3 align="left"> Connect with me </h3>
 
-    <a href="https://www.linkedin.com/in/paavamaani">
-      <img align="left" alt="Paavamaani's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    </a>
+  <a href="https://www.linkedin.com/in/paavamaani">
+    <img align="left" alt="Paavamaani's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
 
-    [<img align="left" alt="Paavamaani's Email" width="22px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />](mailto:paavamaanimanchala@gmail.com)
-  </div>
+  [<img align="left" alt="Paavamaani's Email" width="22px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />](mailto:paavamaanimanchala@gmail.com)
+  
+  <h3 align="left"> Portfolio <img src="https://komarev.com/ghpvc/?username=paavamaani&label=Visitors&color=0e75b6&style=flat" alt="paavamaani" /> </h3>
 
-  <div>
-    <h3 align="left"> Portfolio <img src="https://komarev.com/ghpvc/?username=paavamaani&label=Visitors&color=0e75b6&style=flat" alt="paavamaani" /> </h3>
-
-    <a href="https://leetcode.com/paavamaani">
-      <img align="left" alt="Paavamaani's LeetCode" width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
-    </a>
-    <a href="https://github.com/paavamaani">
-      <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
-    </a>
-  </div>
+  <a href="https://leetcode.com/paavamaani">
+    <img align="left" alt="Paavamaani's LeetCode" width="22px" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" />
+  </a>
+  <a href="https://github.com/paavamaani">
+    <img align="left" alt="Paavamaani's GitHub" width="22px" src="https://docs.github.com/assets/cb-803/images/site/favicon.svg" />
+  </a>
 </div>
 
 <br>
