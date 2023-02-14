@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/paavamaani"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "keywords": [
     "gatsby"
   ],
