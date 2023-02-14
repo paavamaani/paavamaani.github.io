@@ -155,4 +155,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: "/paavamaani.github.io"
 };
